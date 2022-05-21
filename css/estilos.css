@@ -42,3 +42,18 @@ body #container{
 #container h1{
      font-size: 30px;
 }
+
+footer{
+     background-color: bisque;
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 11px;
+}
+
+footer #footer{
+     color: brown;
+     border-radius: 120px;
+     background-color: cadetblue;
+     padding: .2rem;
+     margin: 2rem 3rem;
+}
